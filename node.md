@@ -3048,7 +3048,7 @@ const app = new Koa()
 const router = new Router()
  
 router.get('/pagelist/:id', (ctx, next) => {
-    ctx.body = ctx.request.query.id
+    ctx.body = ctx.params.id
 })
  
 app
@@ -4719,15 +4719,15 @@ app.listen(3000,()=>{
 
 ###### 后台进行判断
 
+#### 即使通讯（socket.io)
 
+#### 异步模型（io模型）
 
-#### 异步IO 模型
-
-#### 爬虫（Pupeteer）
+#### 爬虫（pupeteer）
 
 #### 调试（debug）
 
-#### 测试（Test）
+#### 测试（test）
 
 
 

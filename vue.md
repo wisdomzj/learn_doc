@@ -46,14 +46,6 @@ $ npm install vue
 
 #### 环境搭建（vue-cli）
 
-##### 需要node环境支持
-
-下载地址： <https://nodejs.org/en/download>
-
-![1571845560490](http://demo.bestzhangjun.com/node/1571845560490.png)
-
-
-
 ##### 基于脚手架开发
 
 ###### 脚手架安装
@@ -154,7 +146,7 @@ $ vue ui
 
 上述命令会打开一个浏览器窗口，并以图形化界面将你引导至项目创建的流程
 
-![1573017833721](C:\Users\25561\AppData\Roaming\Typora\typora-user-images\1573017833721.png)
+![1588601436064](C:\Users\25561\AppData\Roaming\Typora\typora-user-images\1588601436064.png)
 
 
 
@@ -3698,6 +3690,10 @@ export default {
 
 
 
+##### Mock数据
+
+
+
 #### 状态管理
 
 ##### 集成vuex
@@ -3930,16 +3926,6 @@ export default {
 
 
 #### 服务端渲染
-
-
-
-### 项目实践
-
-#### 无人点餐
-
-#### Todo应用
-
-#### 云音乐后台管理系统
 
 
 
